@@ -20,8 +20,9 @@ A SwiftUI app for browsing recipes with images, caching, and error handling.
 - Handles invalid URLs, decoding failures, and empty recipe lists.
 
 ## Screenshots
-
-![App Screenshot](screenshot1.png)
+![allrecipes](https://github.com/user-attachments/assets/156359a2-7de9-4ed5-9be0-950fdb9c06ab)
+![malformedurl](https://github.com/user-attachments/assets/1d284c0a-ee3d-4ad6-a4b0-351e8c376c69)
+![emptyRecipes](https://github.com/user-attachments/assets/7268c92d-dd46-484a-8321-29da51f5989d)
 
 ## Installation
 
