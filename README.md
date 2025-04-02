@@ -1,4 +1,4 @@
-# TakeHomeProjectRecipes
+## Recipes APP 
 
 A SwiftUI app for browsing recipes with images, caching, and error handling.
 
